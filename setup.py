@@ -10,6 +10,7 @@ from distutils.core import setup
 from setuptools import find_packages
 import os
 from os import path
+import io
 
 
 def find_embedded_package(folder):
